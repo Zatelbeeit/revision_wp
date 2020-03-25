@@ -1,0 +1,27 @@
+/* 
+Theme Name: Revision 
+*/
+
+.body{
+    background: red;
+}
+.navbar{
+    background:red;
+}
+.navbar-nav ul  {
+    list-style-type: none;
+    margin:0;
+        display:flex;
+}
+ .navbar-nav li {
+    padding: 1em;
+
+} 
+
+
+
+.navbar-nav li:hover{
+    background:darken(red, 20%);
+}
+    
+  
